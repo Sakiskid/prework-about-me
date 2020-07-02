@@ -20,14 +20,16 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
+    font-style: oblique;
+    font-weight: 800;
     color: #ffffff;
 }
 
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
-    font-size: 6em;
-    letter-spacing: -0.02em;
+    font-size: 7em;
+    letter-spacing: 0.05em;
     text-transform: uppercase;
     color: #ffffff;
 }
